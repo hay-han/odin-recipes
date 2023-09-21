@@ -1,0 +1,43 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  max-width: 960px;
+  margin: auto;
+}
+
+h1, .page-link, li {
+  color: darkslategrey;
+}
+
+h2, h3 {
+  color: darkcyan;
+  background-color: azure;
+
+}
+
+.page-link {
+  font-weight: 800;
+  color: cornflowerblue;
+  background-color: azure;
+  border-color:darkcyan;
+  padding: 4px;
+  margin: 4px ;
+  border-style: dotted;
+  display: inline-block;
+
+}
+
+.main-title {
+  display: block;
+  background-color: cadetblue;
+  width: auto;
+  text-align: center;
+  padding: 4px;
+  margin: 4px;
+  border-style: solid;
+}
+
+span {
+  display: block;
+  width: auto;
+  text-align: center;
+}
